@@ -57,7 +57,6 @@ for _ in range(t):
             d.append(a[i])
         else:
             c.append(max(a))
-
             d.append(min(a))
           
     print(score(c,d))
