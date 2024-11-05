@@ -1,6 +1,6 @@
 """
-time limit per test1 second
-memory limit per test256 megabytes
+time limit per test 1 second
+memory limit per test 256 megabytes
 
 You are given an array 𝑎1,𝑎2,…,𝑎𝑛 of positive integers.
 
@@ -19,7 +19,7 @@ Output
 For each test case, output a single integer: the maximum possible score you can get after coloring some elements red according to the statement.
 
 Example
-inputCopy
+input:
 4
 3
 5 4 5
@@ -29,7 +29,7 @@ inputCopy
 3 3 3 3 4 1 2 3 4 5
 9
 17 89 92 42 29 92 14 70 45
-outputCopy
+output:
 7
 6
 10

@@ -1,7 +1,7 @@
 """
 A. Sakurako and Kosuke
-time limit per test1 second
-memory limit per test256 megabytes
+time limit per test 1 second
+memory limit per test 256 megabytes
 Sakurako and Kosuke decided to play some games with a dot on a coordinate line. The dot is currently located in position 𝑥=0. They will be taking turns, and Sakurako will be the one to start.
 
 On the i-th move, the current player will move the dot in some direction by 2⋅i-1 units. Sakurako will always be moving the dot in the negative direction, whereas Kosuke will always move it in the positive direction.

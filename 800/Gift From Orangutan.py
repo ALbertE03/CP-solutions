@@ -1,6 +1,6 @@
 """
-time limit per test1 second
-memory limit per test256 megabytes
+time limit per test 1 second
+memory limit per test 256 megabytes
 While exploring the jungle, you have bumped into a rare orangutan with a bow tie! You shake hands with the orangutan and offer him some food and water. In return...
 
 The orangutan has gifted you an array 𝑎 of length 𝑛. Using 𝑎, you will construct two arrays 𝑏 and 𝑐, both containing 𝑛 elements, in the following manner:
