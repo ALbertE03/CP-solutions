@@ -40,6 +40,6 @@ for _ in range(t):
 
     first = b[0]
     last = a[0]
-    new_frist = first+s[0][1:]
-    new_last= last+s[1][1:]
-    print(new_frist+" "+ new_last)
+    new_first = first + s[0][1:]
+    new_last = last + s[1][1:]
+    print(new_first + " "+ new_last)
