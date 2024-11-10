@@ -23,7 +23,7 @@ def count(lista,a):
     return lista.count(a)==7
 
 f = input()
-team1 = 0
+
 if len(f) <7:
     print("NO")
 else:
